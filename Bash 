@@ -1,1 +1,1 @@
-flutter run
+flutter create . --platforms=android,ios
